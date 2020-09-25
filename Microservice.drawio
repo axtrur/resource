@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T03:41:55.679Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="BpWzQah31mDD4RjaQpMO" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T03:43:22.099Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="TLkqlcBXFvRwTavjxvta" version="13.7.4" type="github">
   <diagram id="I4JyueW5JCcSsftDaGxW" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,9 +90,15 @@
         </mxCell>
         <mxCell id="Rhs9mmDFoT_GvzDfz118-32" value="" style="endArrow=classic;html=1;strokeWidth=4;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="287.8" as="sourcePoint" />
-            <mxPoint x="860.25" y="247.8" as="targetPoint" />
+            <mxPoint x="860" y="285.8" as="sourcePoint" />
+            <mxPoint x="860.25" y="245.8" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rhs9mmDFoT_GvzDfz118-46" value="业务中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rhs9mmDFoT_GvzDfz118-47" value="数据中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="832.14" y="450" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
