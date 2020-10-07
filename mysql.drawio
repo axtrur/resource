@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T06:13:33.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eQkR9PTVVg7BCVcq86x7" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T06:15:38.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="JeqJpjrjGQj-vjvwcWdq" version="13.7.6" type="github">
   <diagram id="Nw3A2sw1rG-FBsZ3vatD" name="Page-1">
-    <mxGraphModel dx="3153" dy="3159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="5fxkcOZgIj8-exEb8mg5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="5fxkcOZgIj8-exEb8mg5-54" target="5fxkcOZgIj8-exEb8mg5-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5fxkcOZgIj8-exEb8mg5-60" value="查询优化器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5fxkcOZgIj8-exEb8mg5-60" value="查询优化器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="600.265394736842" y="491.66666666666663" width="106.57894736842107" height="48.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="5fxkcOZgIj8-exEb8mg5-61" value="执行计划" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -224,7 +224,7 @@
         <mxCell id="5fxkcOZgIj8-exEb8mg5-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="5fxkcOZgIj8-exEb8mg5-61" target="5fxkcOZgIj8-exEb8mg5-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5fxkcOZgIj8-exEb8mg5-73" value="网络模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5fxkcOZgIj8-exEb8mg5-73" value="网络模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="191.27" y="274.17" width="91.96" height="48.33" as="geometry" />
         </mxCell>
         <mxCell id="5fxkcOZgIj8-exEb8mg5-74" value="" style="endArrow=classic;html=1;fontSize=15;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="5fxkcOZgIj8-exEb8mg5-51">
@@ -299,7 +299,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5fxkcOZgIj8-exEb8mg5-111" value="事务 Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5fxkcOZgIj8-exEb8mg5-111" value="事务 Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="400.29" y="1020" width="138.49" height="48.33" as="geometry" />
         </mxCell>
         <mxCell id="5fxkcOZgIj8-exEb8mg5-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="5fxkcOZgIj8-exEb8mg5-112" target="5fxkcOZgIj8-exEb8mg5-120">
@@ -354,7 +354,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5fxkcOZgIj8-exEb8mg5-117" value="Log Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5fxkcOZgIj8-exEb8mg5-117" value="Log Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="581.27" y="1020" width="126.56" height="48.33" as="geometry" />
         </mxCell>
         <mxCell id="5fxkcOZgIj8-exEb8mg5-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="5fxkcOZgIj8-exEb8mg5-119" target="5fxkcOZgIj8-exEb8mg5-121">
@@ -363,7 +363,7 @@
         <mxCell id="5fxkcOZgIj8-exEb8mg5-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="5fxkcOZgIj8-exEb8mg5-119" target="5fxkcOZgIj8-exEb8mg5-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5fxkcOZgIj8-exEb8mg5-119" value="内存缓存 Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5fxkcOZgIj8-exEb8mg5-119" value="内存缓存 Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="400.28999999999996" y="1209.66" width="138.49" height="48.33" as="geometry" />
         </mxCell>
         <mxCell id="5fxkcOZgIj8-exEb8mg5-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="5fxkcOZgIj8-exEb8mg5-120" target="5fxkcOZgIj8-exEb8mg5-119">
@@ -397,7 +397,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5fxkcOZgIj8-exEb8mg5-121" value="存储 Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5fxkcOZgIj8-exEb8mg5-121" value="存储 Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="620.29" y="1209.66" width="138.49" height="48.33" as="geometry" />
         </mxCell>
         <mxCell id="5fxkcOZgIj8-exEb8mg5-122" value="磁盘" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
