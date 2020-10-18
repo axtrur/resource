@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T09:18:11.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="I7f3e5RIbXhdQi52aYsH" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-18T09:21:49.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ZD3-gDrPCMGetDa4LJm0" version="13.7.9" type="github">
   <diagram id="sQaEzJc3ta5iowcHwpoC" name="Page-1">
     <mxGraphModel dx="2404" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,10 +41,10 @@
           <mxGeometry x="-640" y="1510" width="1916" height="1144" as="geometry" />
         </mxCell>
         <mxCell id="-Y-TSlHX9XbXT8nBHs0X-10" value="" style="line;strokeWidth=2;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="238.75" width="820" height="51.25" as="geometry" />
+          <mxGeometry x="150" y="238.75" width="740" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="-Y-TSlHX9XbXT8nBHs0X-11" value="" style="line;strokeWidth=2;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="740" width="820" height="51.25" as="geometry" />
+          <mxGeometry x="140" y="740" width="730" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="-Y-TSlHX9XbXT8nBHs0X-15" value="&lt;h1&gt;名词解释&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul style=&quot;padding: 0px ; margin: 1.4em 0px ; display: table ; color: rgb(18 , 18 , 18) ; font-family: , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;&lt;code style=&quot;margin: 0px 2px ; padding: 3px 4px ; border-radius: 3px ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 0.9em ; background-color: rgb(246 , 246 , 246)&quot;&gt;Buffered I/O&lt;/code&gt;：缓存IO又叫标准IO，是大多数文件系统的默认IO操作，经过PageCache。&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;&lt;code style=&quot;margin: 0px 2px ; padding: 3px 4px ; border-radius: 3px ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 0.9em ; background-color: rgb(246 , 246 , 246)&quot;&gt;Direct I/O&lt;/code&gt;：直接IO，By Pass PageCache。offset、length需对齐到block_size。&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;&lt;code style=&quot;margin: 0px 2px ; padding: 3px 4px ; border-radius: 3px ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 0.9em ; background-color: rgb(246 , 246 , 246)&quot;&gt;Sync I/O&lt;/code&gt;：同步IO，即发起IO请求后会阻塞直到完成。缓存IO和直接IO都属于同步IO。&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;&lt;code style=&quot;margin: 0px 2px ; padding: 3px 4px ; border-radius: 3px ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 0.9em ; background-color: rgb(246 , 246 , 246)&quot;&gt;Async I/O&lt;/code&gt;：异步IO，即发起IO请求后不阻塞，内核完成后回调。通常用内核提供的Libaio。&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;&lt;code style=&quot;margin: 0px 2px ; padding: 3px 4px ; border-radius: 3px ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 0.9em ; background-color: rgb(246 , 246 , 246)&quot;&gt;Write Back&lt;/code&gt;：Buffered IO时，仅仅写入PageCache便返回，不等数据落盘。&lt;/li&gt;&lt;li style=&quot;list-style: none ; display: table-row&quot;&gt;&lt;code style=&quot;margin: 0px 2px ; padding: 3px 4px ; border-radius: 3px ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 0.9em ; background-color: rgb(246 , 246 , 246)&quot;&gt;Write Through&lt;/code&gt;：Buffered IO时，不仅仅写入PageCache，而且同步等待数据落盘。&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="125" width="680" height="410" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="-650" y="960" width="467" height="520" as="geometry" />
         </mxCell>
         <mxCell id="-Y-TSlHX9XbXT8nBHs0X-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.researchgate.net/profile/Pratik_Mishra3/publication/317952281/figure/fig10/AS:513660500283392@1499477614469/Request-queue-processing-structures.png;" vertex="1" parent="1">
-          <mxGeometry x="-106" y="1010" width="520" height="223" as="geometry" />
+          <mxGeometry x="-100" y="1100" width="520" height="223" as="geometry" />
         </mxCell>
         <mxCell id="-Y-TSlHX9XbXT8nBHs0X-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="-Y-TSlHX9XbXT8nBHs0X-42" target="-Y-TSlHX9XbXT8nBHs0X-43">
           <mxGeometry relative="1" as="geometry" />
@@ -197,6 +197,18 @@
         </mxCell>
         <mxCell id="-Y-TSlHX9XbXT8nBHs0X-121" value="用户进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="462" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y-TSlHX9XbXT8nBHs0X-122" value="用户空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="234.68" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y-TSlHX9XbXT8nBHs0X-123" value="内核空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y-TSlHX9XbXT8nBHs0X-125" value="外部设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="771.25" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Y-TSlHX9XbXT8nBHs0X-126" value="概念" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="840" y="170" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
