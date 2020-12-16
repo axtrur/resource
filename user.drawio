@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T11:08:11.479Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="1fUvwGbwLCsJKRrdpCJS" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T12:18:02.010Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="1HikGVf2tZUxA9tMp08_" version="14.0.1" type="github">
   <diagram id="cE4s3qr2dzPUc8DZUsEM" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,6 +183,168 @@
         </mxCell>
         <mxCell id="cLgK5z_RN-ABzNowCWoc-61" value="QQ体系OpenID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="135" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-64" value="gameID 当accType=wx时 +2000&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="620" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-67" target="cLgK5z_RN-ABzNowCWoc-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-67" target="cLgK5z_RN-ABzNowCWoc-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-67" value="loginType=1(QQ)&lt;br&gt;普通QQ登录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="70" y="690" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-68" value="loginType=2(WX)&lt;br&gt;微信登录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="70" y="840" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-69" value="loginType=2(QC)&lt;br&gt;QQ与QQ账号主体互联登录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="70" y="990" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-71" target="cLgK5z_RN-ABzNowCWoc-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="720" />
+              <mxPoint x="600" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-71" value="QQ号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="420" y="705" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-73" target="cLgK5z_RN-ABzNowCWoc-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-73" value="QQ+QQ账号主体AppId&lt;br&gt;此时openID不为空" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="660" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-75" target="cLgK5z_RN-ABzNowCWoc-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-75" value="QQ登录&lt;br&gt;此时openID为空" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="750" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-77" target="cLgK5z_RN-ABzNowCWoc-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-77" value="QQ体系OpenID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="705" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-79" value="UID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="830" y="855" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cLgK5z_RN-ABzNowCWoc-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cLgK5z_RN-ABzNowCWoc-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-94" target="cLgK5z_RN-ABzNowCWoc-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-85" value="其他微信Appid主体下的openID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="810" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-87" target="cLgK5z_RN-ABzNowCWoc-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-87" value="心悦微信账号主体下的openID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="900" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-89" target="cLgK5z_RN-ABzNowCWoc-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-89" value="微信体系OpenID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="855" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cLgK5z_RN-ABzNowCWoc-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1025" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cLgK5z_RN-ABzNowCWoc-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1025" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-92" value="其他QQ账号主体下的&lt;br&gt;openID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="965" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-93" target="cLgK5z_RN-ABzNowCWoc-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-93" value="心悦QQ账号主体下的openID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1055" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-94" value="心悦APP微信账号主体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="810" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-85" target="cLgK5z_RN-ABzNowCWoc-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="820" as="sourcePoint" />
+            <mxPoint x="695" y="855" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-111" target="cLgK5z_RN-ABzNowCWoc-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1060" as="sourcePoint" />
+            <mxPoint x="455" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-100" target="cLgK5z_RN-ABzNowCWoc-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-100" value="QQ号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1010" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cLgK5z_RN-ABzNowCWoc-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="980" as="sourcePoint" />
+            <mxPoint x="420" y="975" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="cLgK5z_RN-ABzNowCWoc-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="510" y="975" as="sourcePoint" />
+            <mxPoint x="550" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-104" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%BF%83%E6%82%A6QQ%E8%B4%A6%E5%8F%B7%E4%B8%BB%E4%BD%93101484782%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22520%22%20y%3D%22120%22%20width%3D%22100%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%BF%83%E6%82%A6QQ%E8%B4%A6%E5%8F%B7%E4%B8%BB%E4%BD%93101484782%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22520%22%20y%3D%22120%22%20width%3D%22100%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cLgK5z_RN-ABzNowCWoc-103">
+          <mxGeometry x="-0.254" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-105" value="QQ号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="420" y="960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-110" value="QQ号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="705" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-111" value="QQ号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1050" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-114" value="QQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-115" value="WX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="850" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLgK5z_RN-ABzNowCWoc-116" value="QC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1000" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
