@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T07:20:02.993Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="Jk3TLIoyiLiTi-Wd1coU" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T08:43:24.600Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="-gm8eplgVIyjJLgn7qPT" version="14.0.3" type="github">
   <diagram id="fUlSVY1tBTceYShjnSN3" name="第 1 页">
-    <mxGraphModel dx="3197" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,6 +213,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hklq6vEDKu7obvvFdcvu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#CC0000;" edge="1" parent="1" source="FoiQt1KAuYYiKZtzM87P-132" target="FoiQt1KAuYYiKZtzM87P-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FoiQt1KAuYYiKZtzM87P-132" value="已领取状态" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-132.5" y="-654.44" width="120" height="60" as="geometry" />
         </mxCell>
@@ -231,6 +234,12 @@
         <mxCell id="FoiQt1KAuYYiKZtzM87P-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=11;dashed=1;" parent="1" source="FoiQt1KAuYYiKZtzM87P-137" target="FoiQt1KAuYYiKZtzM87P-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Hklq6vEDKu7obvvFdcvu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#CC0000;" edge="1" parent="1" source="FoiQt1KAuYYiKZtzM87P-137" target="FoiQt1KAuYYiKZtzM87P-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hklq6vEDKu7obvvFdcvu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#009900;" edge="1" parent="1" source="FoiQt1KAuYYiKZtzM87P-137" target="FoiQt1KAuYYiKZtzM87P-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FoiQt1KAuYYiKZtzM87P-137" value="里程碑&lt;br&gt;中间状态" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-452.5" y="-792.06" width="120" height="60" as="geometry" />
         </mxCell>
@@ -242,8 +251,8 @@
         </mxCell>
         <mxCell id="FoiQt1KAuYYiKZtzM87P-162" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=2;fontSize=11;fillColor=#dae8fc;strokeColor=#66B2FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-393.09000000000003" y="-367.06" as="sourcePoint" />
-            <mxPoint x="-393.09000000000003" y="-607.06" as="targetPoint" />
+            <mxPoint x="-374.48" y="-370" as="sourcePoint" />
+            <mxPoint x="-374.48" y="-610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FoiQt1KAuYYiKZtzM87P-163" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=2;fontSize=11;fillColor=#dae8fc;strokeColor=#66B2FF;" parent="1" edge="1">
@@ -256,7 +265,7 @@
           <mxGeometry x="-662.5" y="-352" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FoiQt1KAuYYiKZtzM87P-165" value="finishMission" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="-427.5" y="-352" width="70" height="20" as="geometry" />
+          <mxGeometry x="-415.06" y="-352" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FoiQt1KAuYYiKZtzM87P-166" value="obtainReward" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-212.5" y="-352" width="70" height="20" as="geometry" />
