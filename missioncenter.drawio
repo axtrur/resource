@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T03:43:25.210Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="YX98OI3g1I09S4E54ak5" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T04:32:15.691Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="UdPWlvGlynCDxqY8_DOh" version="14.1.4" type="github">
   <diagram id="fUlSVY1tBTceYShjnSN3" name="第 1 页">
     <mxGraphModel dx="2708" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1409,7 +1409,7 @@
         <mxCell id="dy7CkbQ1C-zYivuLTdp4-830" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;平台&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="559.86" y="-49.99999999999999" width="87" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dy7CkbQ1C-zYivuLTdp4-831" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;数据分析&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="dy7CkbQ1C-zYivuLTdp4-831" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;质量分析&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="982.81" y="-49.99999999999999" width="87" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dy7CkbQ1C-zYivuLTdp4-835" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=15;align=center;strokeColor=none;" vertex="1" parent="1">
@@ -1510,6 +1510,24 @@
         </mxCell>
         <mxCell id="dy7CkbQ1C-zYivuLTdp4-907" value="公共资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="284" y="160.95000000000005" width="69" height="24.04" as="geometry" />
+        </mxCell>
+        <mxCell id="dy7CkbQ1C-zYivuLTdp4-909" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;fontSize=13;fontColor=#999999;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300.25" y="624.4199999999997" as="sourcePoint" />
+            <mxPoint x="1300" y="-45.32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dy7CkbQ1C-zYivuLTdp4-911" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;效果分析&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1377.67" y="-49.99999999999999" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dy7CkbQ1C-zYivuLTdp4-912" value="活动效果分析（pv/uv）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1309.9968932038835" y="6.803679727427436" width="227.26213592233012" height="44.46996592844975" as="geometry" />
+        </mxCell>
+        <mxCell id="dy7CkbQ1C-zYivuLTdp4-913" value="权益领取分析（礼包/积分...）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1309.9968932038835" y="116.48367972742744" width="227.26213592233012" height="44.46996592844975" as="geometry" />
+        </mxCell>
+        <mxCell id="dy7CkbQ1C-zYivuLTdp4-914" value="活动效果对比分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1309.9968932038835" y="61.44367972742744" width="227.26213592233012" height="44.46996592844975" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
