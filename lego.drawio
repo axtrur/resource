@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T01:09:04.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="_DTVxiPJLmmo5BdUxQk_" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T01:59:02.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="0eTeqp4cb-DigEABoWIJ" version="14.8.0" type="github">
   <diagram id="uDUzqy1bVPLQPqyA0Kb6" name="Page-1">
     <mxGraphModel dx="1577" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,26 +158,101 @@
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-72" value="正式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="670" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-75" target="IaOmF9w9HwhS0B1iCCKS-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="940" />
+              <mxPoint x="220" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-75" target="IaOmF9w9HwhS0B1iCCKS-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="940" />
+              <mxPoint x="220" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-75" target="IaOmF9w9HwhS0B1iCCKS-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-98" value="静态资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaOmF9w9HwhS0B1iCCKS-97">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-75" value="lego-frontend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70.55" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-76" value="lego-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="284" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-77" value="datahub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="284" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IaOmF9w9HwhS0B1iCCKS-81" value="lego-frontend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-81" target="IaOmF9w9HwhS0B1iCCKS-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="925" />
+              <mxPoint x="620" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-81" target="IaOmF9w9HwhS0B1iCCKS-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-81" target="IaOmF9w9HwhS0B1iCCKS-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="955" />
+              <mxPoint x="620" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-99" value="静态资源" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-81" target="IaOmF9w9HwhS0B1iCCKS-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-100" value="/m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaOmF9w9HwhS0B1iCCKS-99">
+          <mxGeometry x="0.6791" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-81" value="lego-frontend&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463.28000000000003" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-82" value="lego-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="636.73" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-83" value="lego-application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="636.73" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IaOmF9w9HwhS0B1iCCKS-84" value="datahub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="636.73" y="990" width="120" height="60" as="geometry" />
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-84" value="lego-datahub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-90" value="/api" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="860" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-91" value="/api/v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1020" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-92" value="域名A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="880" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-93" value="域名B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="980" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-94" value="域名A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108.55000000000001" y="972" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-96" value="cdn" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97.17999999999999" y="820" width="66.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-101" value="/app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="940" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-102" value="域名A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="503.28000000000003" y="972" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
