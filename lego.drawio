@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T01:59:02.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="0eTeqp4cb-DigEABoWIJ" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T02:03:24.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="km8WPXYUVnuje4eIhv0n" version="14.8.0" type="github">
   <diagram id="uDUzqy1bVPLQPqyA0Kb6" name="Page-1">
-    <mxGraphModel dx="1577" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,6 +227,9 @@
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-83" value="lego-application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="910" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-84" target="IaOmF9w9HwhS0B1iCCKS-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-84" value="lego-datahub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="990" width="120" height="60" as="geometry" />
         </mxCell>
@@ -253,6 +256,21 @@
         </mxCell>
         <mxCell id="IaOmF9w9HwhS0B1iCCKS-102" value="域名A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="503.28000000000003" y="972" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IaOmF9w9HwhS0B1iCCKS-103" target="IaOmF9w9HwhS0B1iCCKS-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-103" value="datahub 管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-105" value="datahub 管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-106" value="域名B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1090" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IaOmF9w9HwhS0B1iCCKS-108" value="server render" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="992" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
