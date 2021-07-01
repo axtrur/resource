@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T08:03:25.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="G0P1_dkhGNycbqSLC6_7" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T09:59:28.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="bT1e846yOOyManpv7tZS" version="14.8.0" type="github">
   <diagram id="uDUzqy1bVPLQPqyA0Kb6" name="Page-1">
-    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="flTg_ATKUISQP68es9VW-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-736.5" y="-220" width="653" height="560" as="geometry" />
+          <mxGeometry x="-1100" y="-233.8" width="893" height="560" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-90" width="580" height="250" as="geometry" />
+          <mxGeometry x="-823.5" y="-103.8" width="580" height="250" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="-20" width="160" height="337" as="geometry" />
+          <mxGeometry x="-803.5" y="-33.8" width="160" height="337" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="-20" width="300" height="153" as="geometry" />
+          <mxGeometry x="-593.5" y="-33.8" width="300" height="153" as="geometry" />
         </mxCell>
         <mxCell id="DDKtBxTNF-t0D1IPIHyG-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="724.19" y="1243" width="470.82" height="425" as="geometry" />
@@ -702,37 +702,113 @@
         <mxCell id="flTg_ATKUISQP68es9VW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-1" target="flTg_ATKUISQP68es9VW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-1" target="flTg_ATKUISQP68es9VW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-1" value="角色&lt;br&gt;比如管理员，运营&lt;br&gt;(&lt;font color=&quot;#ff3333&quot;&gt;t_role&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="21.5" width="120" height="70" as="geometry" />
+          <mxGeometry x="-783.5" y="7.699999999999999" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="flTg_ATKUISQP68es9VW-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-600" y="203.51000000000022" as="sourcePoint" />
+            <mxPoint x="-723.5" y="189.7100000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-3" value="操作对象&lt;br&gt;(&lt;font color=&quot;#ff3333&quot;&gt;object_id&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="62.99999999999999" width="100" height="33" as="geometry" />
+          <mxGeometry x="-423.5" y="49.19999999999999" width="100" height="33" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-4" target="flTg_ATKUISQP68es9VW-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-4" value="操作&lt;br&gt;(&lt;font color=&quot;#ff3333&quot;&gt;t_verb&lt;/font&gt;)&lt;br&gt;增删改查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="51.5" width="100" height="56" as="geometry" />
+          <mxGeometry x="-563.5" y="37.7" width="100" height="56" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-7" value="权限&lt;br&gt;(&lt;font color=&quot;#ff3333&quot;&gt;t_permission&lt;/font&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" width="40" height="20" as="geometry" />
+          <mxGeometry x="-453.5" y="-13.8" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-10" value="角色权限关联&lt;br&gt;（某角色ID 有 某权限ID）&lt;br&gt;（&lt;font color=&quot;#ff3333&quot;&gt;t_role_permission&lt;/font&gt;）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-503" y="-70" width="173" height="20" as="geometry" />
+          <mxGeometry x="-626.5" y="-83.8" width="173" height="20" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-13" value="用户角色关联&lt;br&gt;（某用户 拥有某角色ID）&lt;br&gt;（&lt;font color=&quot;#ff3333&quot;&gt;t_user_role&lt;/font&gt;）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-686.5" y="278" width="173" height="20" as="geometry" />
+          <mxGeometry x="-810" y="264.2" width="173" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-14" target="flTg_ATKUISQP68es9VW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-24" value="某用户用用某审批ID，能看到审批单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="flTg_ATKUISQP68es9VW-23">
+          <mxGeometry x="0.4893" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-14" target="flTg_ATKUISQP68es9VW-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-14" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-612.66" y="201.4" width="25.33" height="38" as="geometry" />
+          <mxGeometry x="-736.16" y="187.6" width="25.33" height="38" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-16" value="空间，比如一个乐高项目就是一个空间&lt;br&gt;(&lt;font color=&quot;#ff3333&quot;&gt;t_namespace&lt;/font&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-503" y="-200" width="133" height="50" as="geometry" />
+          <mxGeometry x="-626.5" y="-213.8" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-17" target="flTg_ATKUISQP68es9VW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-17" value="审批单&lt;br&gt;（&lt;font color=&quot;#ff3333&quot;&gt;t_approve_log&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-18" target="flTg_ATKUISQP68es9VW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-18" value="审核角色关联&lt;br&gt;即某角色有审核权限&lt;br&gt;（&lt;font color=&quot;#ff3333&quot;&gt;t_approve_rule&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="13.200000000000003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-20" target="flTg_ATKUISQP68es9VW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-20" value="审核ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="-39" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-26" target="flTg_ATKUISQP68es9VW-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-26" value="审批ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="-210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-28" target="flTg_ATKUISQP68es9VW-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1210" y="-281" />
+              <mxPoint x="-1210" y="360" />
+              <mxPoint x="-723" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-36" value="审批通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="flTg_ATKUISQP68es9VW-35">
+          <mxGeometry x="-0.6125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-28" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1022.67" y="-310" width="25.33" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-29" target="flTg_ATKUISQP68es9VW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-29" target="flTg_ATKUISQP68es9VW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-29" target="flTg_ATKUISQP68es9VW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-29" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="23.69999999999999" width="25.33" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-32" value="申请人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1187.34" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-34" value="审批人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="-330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="flTg_ATKUISQP68es9VW-37" value="权限系统人员管理&lt;br&gt;（&lt;font color=&quot;#ff3333&quot;&gt;t_tencent_user&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="244.2" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
