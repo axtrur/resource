@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T09:59:43.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="1Fwy-LkowhrmoqWwhcri" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T10:00:35.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="qhIcS0TGcWH1TfyQ2KAn" version="14.8.0" type="github">
   <diagram id="uDUzqy1bVPLQPqyA0Kb6" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -757,8 +757,8 @@
         <mxCell id="flTg_ATKUISQP68es9VW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-18" target="flTg_ATKUISQP68es9VW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="flTg_ATKUISQP68es9VW-18" value="审核角色关联&lt;br&gt;即某角色有审核权限&lt;br&gt;（&lt;font color=&quot;#ff3333&quot;&gt;t_approve_rule&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="13.200000000000003" width="120" height="60" as="geometry" />
+        <mxCell id="flTg_ATKUISQP68es9VW-18" value="审核角色关联&lt;br&gt;即某角色可供权限申请&lt;br&gt;（&lt;font color=&quot;#ff3333&quot;&gt;t_approve_rule&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1075.01" y="12.7" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="flTg_ATKUISQP68es9VW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="flTg_ATKUISQP68es9VW-20" target="flTg_ATKUISQP68es9VW-17">
           <mxGeometry relative="1" as="geometry" />
