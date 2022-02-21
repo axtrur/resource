@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T01:59:58.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="7Ti0Zb8ZyG-oR6nFZwyE" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T02:00:28.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="zKvSqNJnmnjcB37n7gKY" version="16.6.1" type="github">
   <diagram id="gWc2jN6V5Igg9n6WPG1Q" name="Page-1">
     <mxGraphModel dx="860" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,10 +389,10 @@
         <mxCell id="sAEdU9W-AbyJChdEUiqo-148" value="活动配置" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="287.76" y="1507" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sAEdU9W-AbyJChdEUiqo-155" value="schema 解析引擎&lt;br&gt;（ceiba-ui)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="491.5" y="1434.18" width="104" height="30" as="geometry" />
+        <mxCell id="sAEdU9W-AbyJChdEUiqo-155" value="schema 解析引擎&lt;br&gt;（&lt;b&gt;ceiba-ui&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="490.5" y="1433.18" width="108.5" height="35.82" as="geometry" />
         </mxCell>
-        <mxCell id="sAEdU9W-AbyJChdEUiqo-174" value="web" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="sAEdU9W-AbyJChdEUiqo-174" value="web" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="428.25" y="1508.18" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sAEdU9W-AbyJChdEUiqo-175" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;strokeColor=#3399FF;fillColor=default;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
@@ -440,13 +440,13 @@
         <mxCell id="sAEdU9W-AbyJChdEUiqo-190" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="270" y="1370" width="130.76" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sAEdU9W-AbyJChdEUiqo-177" value="页面&lt;br&gt;schema" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;dashPattern=1 1;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="sAEdU9W-AbyJChdEUiqo-190" vertex="1">
+        <mxCell id="sAEdU9W-AbyJChdEUiqo-177" value="页面&lt;br&gt;schema" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;dashPattern=1 1;fontSize=11;" parent="sAEdU9W-AbyJChdEUiqo-190" vertex="1">
           <mxGeometry x="35.846978193146406" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="sAEdU9W-AbyJChdEUiqo-178" value="插件&lt;br&gt;schema" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;dashPattern=1 1;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="sAEdU9W-AbyJChdEUiqo-190" vertex="1">
+        <mxCell id="sAEdU9W-AbyJChdEUiqo-178" value="插件&lt;br&gt;schema" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;dashPattern=1 1;fontSize=11;" parent="sAEdU9W-AbyJChdEUiqo-190" vertex="1">
           <mxGeometry y="60" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sAEdU9W-AbyJChdEUiqo-179" value="组件&lt;br&gt;&amp;nbsp;schema" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;dashPattern=1 1;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="sAEdU9W-AbyJChdEUiqo-190" vertex="1">
+        <mxCell id="sAEdU9W-AbyJChdEUiqo-179" value="组件&lt;br&gt;&amp;nbsp;schema" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;dashPattern=1 1;fontSize=11;" parent="sAEdU9W-AbyJChdEUiqo-190" vertex="1">
           <mxGeometry x="69.65719626168223" y="60" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sAEdU9W-AbyJChdEUiqo-191" value="插件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;dashPattern=1 1;fontSize=9;" parent="1" vertex="1">
