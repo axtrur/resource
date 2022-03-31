@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T14:28:37.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="17.2.5" etag="j6zLQdNr3G43bHy1imlo" type="github"><diagram id="MqkzivYph-CsK2XqMk9J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-31T13:12:06.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="htPpSJ96cnQskSt6ohHc" version="17.2.4" type="github">
+  <diagram id="MqkzivYph-CsK2XqMk9J" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n6MInIOsrf55ijCqUrn6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="900" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6MInIOsrf55ijCqUrn6-1" target="n6MInIOsrf55ijCqUrn6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-1" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n6MInIOsrf55ijCqUrn6-2" target="n6MInIOsrf55ijCqUrn6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-2" value="黄金，纸币" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-3" value="NFT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="249.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-4" value="数字货币，积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="249.99692307692308" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-8" value="资产转移" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="319.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-9" value="记账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="319.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n6MInIOsrf55ijCqUrn6-10" target="n6MInIOsrf55ijCqUrn6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-10" value="商品平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="179.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-11" value="NFT平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="249.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n6MInIOsrf55ijCqUrn6-12" target="n6MInIOsrf55ijCqUrn6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-12" value="银行系统&lt;br&gt;印发纸币" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="179.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-13" value="链&lt;br&gt;积分申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="249.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-16" value="资产+记账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="319.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-17" value="通胀紧缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="319.9969230769231" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MInIOsrf55ijCqUrn6-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="445" as="sourcePoint" />
+            <mxPoint x="840" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
