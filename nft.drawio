@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T09:26:24.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="x52dsI2LZK66gQkDn336" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T09:26:49.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="LuoAO-ejHvT3aSf66dUx" version="17.3.0" type="github">
   <diagram id="MqkzivYph-CsK2XqMk9J" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,13 +154,13 @@
             <mxPoint x="380" y="900" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dLQO1P7wtiv2QxEiLLtK-3" value="nftCoreServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dLQO1P7wtiv2QxEiLLtK-3" value="nftCoreServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="575" y="940" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dLQO1P7wtiv2QxEiLLtK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLQO1P7wtiv2QxEiLLtK-4" target="dLQO1P7wtiv2QxEiLLtK-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dLQO1P7wtiv2QxEiLLtK-4" value="adminServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dLQO1P7wtiv2QxEiLLtK-4" value="adminServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="414" y="880" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dLQO1P7wtiv2QxEiLLtK-6" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -184,16 +184,16 @@
         <mxCell id="dLQO1P7wtiv2QxEiLLtK-15" value="&lt;h1&gt;主要能力&lt;/h1&gt;&lt;p&gt;自然人与链上用户地址映射&lt;/p&gt;&lt;p&gt;用户公私钥管理（至信钱包sdk）&lt;/p&gt;&lt;p&gt;nft接口&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;1.&amp;nbsp;&lt;span&gt;用户地址链上资产信息（异步同步？）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2. nft信息变更&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3. nft转移&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4. 积分信息变更&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 5. 记账&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="990" width="305" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="dLQO1P7wtiv2QxEiLLtK-16" value="基础服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1280" width="105" height="40" as="geometry" />
+        <mxCell id="dLQO1P7wtiv2QxEiLLtK-16" value="基础服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1200" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dLQO1P7wtiv2QxEiLLtK-17" value="&lt;h1&gt;主要功能&lt;/h1&gt;&lt;p&gt;支付（C-&amp;gt;B, C-&amp;gt;C）&lt;/p&gt;&lt;p&gt;订单，订单记录&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1330" width="156" height="100" as="geometry" />
+          <mxGeometry x="414" y="1250" width="156" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dLQO1P7wtiv2QxEiLLtK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLQO1P7wtiv2QxEiLLtK-19" target="dLQO1P7wtiv2QxEiLLtK-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dLQO1P7wtiv2QxEiLLtK-19" value="业务服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dLQO1P7wtiv2QxEiLLtK-19" value="业务服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="414" y="990" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dLQO1P7wtiv2QxEiLLtK-23" value="&lt;h1&gt;主要功能&lt;/h1&gt;&lt;p&gt;前端具体的业务接口&lt;/p&gt;&lt;p&gt;关系链，维护&lt;/p&gt;&lt;p&gt;足迹（展廊，nft商品）&lt;/p&gt;&lt;p&gt;....&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
