@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T03:58:20.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="aXRTPLzMm6LHvhmNSWiM" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-02T06:06:54.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="h6-U0cWvTC8dL4RMToUk" version="17.4.0" type="github">
   <diagram id="MqkzivYph-CsK2XqMk9J" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ql54nZVX8E0udSSLBTUT-6" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="810" width="490" height="280" as="geometry" />
+          <mxGeometry x="290" y="820" width="380" height="240" as="geometry" />
         </mxCell>
         <mxCell id="dLQO1P7wtiv2QxEiLLtK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dLQO1P7wtiv2QxEiLLtK-8" target="dLQO1P7wtiv2QxEiLLtK-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -236,17 +236,11 @@
         <mxCell id="dLQO1P7wtiv2QxEiLLtK-32" value="开发网" style="rounded=1;whiteSpace=wrap;html=1;" parent="dLQO1P7wtiv2QxEiLLtK-37" vertex="1">
           <mxGeometry y="56.2962962962963" width="90" height="23.703703703703702" as="geometry" />
         </mxCell>
-        <mxCell id="Ql54nZVX8E0udSSLBTUT-1" value="用户账号合约" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="270" y="900" width="80" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="Ql54nZVX8E0udSSLBTUT-2" value="记账合约" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="394" y="900" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ql54nZVX8E0udSSLBTUT-3" value="nft合约" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="515" y="900" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Ql54nZVX8E0udSSLBTUT-4" value="" style="shape=cross;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="366" y="950" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Ql54nZVX8E0udSSLBTUT-5" value="" style="shape=cross;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="488" y="950" width="14" height="14" as="geometry" />
@@ -262,6 +256,9 @@
         </mxCell>
         <mxCell id="Ql54nZVX8E0udSSLBTUT-11" value="依赖至信链" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="162" y="1169" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql54nZVX8E0udSSLBTUT-12" value="&lt;span style=&quot;font-size: 12px&quot;&gt;账户地址管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="927" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
