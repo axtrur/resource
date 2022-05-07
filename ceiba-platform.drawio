@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T06:34:01.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="18.0.1" etag="6hr-TPPOUO_ontyMSMUM" type="github"><diagram id="KYf9Er2kuV7wIZ0jGuQY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-07T06:40:14.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8jcEQ1VYiNWJsGE3wJql" version="18.0.1" type="github">
+  <diagram id="KYf9Er2kuV7wIZ0jGuQY" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-2" value="是否兼容旧版本配置数据结构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="455" y="410" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-5" value="是否已做埋点上报" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="485" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="455" y="450" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="455" y="490" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vPAg1KyBrHg3raF2SCh0-11" value="是否兼容旧版本逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
