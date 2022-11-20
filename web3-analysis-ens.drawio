@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T01:14:59.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ue1PYoFpvZJ55LSM44KN" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T01:16:07.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rDuw4sLJ8-OpPzQd3NE5" version="20.4.0" type="github">
   <diagram id="1bvWbza1refvOPD_YgpF" name="第 1 页">
     <mxGraphModel dx="2198" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,8 +184,8 @@
         <mxCell id="_4NOT_RZBkOekzJuwyJN-13" value="&lt;h1&gt;record&lt;/h1&gt;&lt;p&gt;owner 拥有者地址&lt;/p&gt;&lt;p&gt;resolver 解析器合约地址&lt;/p&gt;&lt;p&gt;ttl 域名解析存活时间&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1046.2857142857142" y="555" width="168.28571428571428" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_4NOT_RZBkOekzJuwyJN-16" value="核心注册表合约" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1046.2857142857142" y="460" width="84.14285714285714" height="30" as="geometry" />
+        <mxCell id="_4NOT_RZBkOekzJuwyJN-16" value="EnsRegistry&lt;br&gt;核心注册表合约&lt;br&gt;（包括正、反向注册表）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1028.57" y="470" width="133.71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_4NOT_RZBkOekzJuwyJN-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="400" width="210" height="130" as="geometry" />
