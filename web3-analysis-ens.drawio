@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T15:38:54.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JZxLbgbHLBcGrDq2hgHp" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T17:37:55.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oRf4LPbMWEFPHajlHivM" version="20.5.3" type="github">
   <diagram id="1bvWbza1refvOPD_YgpF" name="第 1 页">
     <mxGraphModel dx="2061" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -715,6 +715,201 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="2780" as="sourcePoint" />
             <mxPoint x="690" y="2730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-57" value="控制器合约&lt;br&gt;ETHRegisterController" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-137.99" y="2970" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-58" value="基础注册器合约&lt;br&gt;BaseRegistrarImplementation" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="65.80000000000001" y="2970" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-59" value="注册表合约&lt;br&gt;EnsRegisgtry" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="280.36" y="2970" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-60" value="价格预言机合约&lt;br&gt;StablePriceOracle" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="481.86" y="2970" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-56.75" y="3190" width="13" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WpUKqLsLP9HWOlTt5mFc-63" target="WpUKqLsLP9HWOlTt5mFc-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="3130" as="sourcePoint" />
+            <mxPoint x="-90" y="3080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-67" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WpUKqLsLP9HWOlTt5mFc-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="3370" as="sourcePoint" />
+            <mxPoint x="-30" y="3270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-68" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="3060" as="sourcePoint" />
+            <mxPoint x="-50" y="3060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-69" value="生成commitment信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-68">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-70" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="3080" as="sourcePoint" />
+            <mxPoint x="-230" y="3080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-71" value="返回commitment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-70">
+          <mxGeometry x="0.2667" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-72" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="3116" as="sourcePoint" />
+            <mxPoint x="-50" y="3116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-73" value="提交commitment信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-72">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-74" value="等待60s" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-229" y="3190" as="sourcePoint" />
+            <mxPoint x="-229" y="3130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-75" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-236.75" y="3200" as="sourcePoint" />
+            <mxPoint x="-56.75" y="3200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-76" value="执行注册请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-75">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-78" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="158.48000000000002" y="3255" as="sourcePoint" />
+            <mxPoint x="158.24" y="3030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-94" value="NFT铸造与过期时间记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-78">
+          <mxGeometry x="0.1289" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="151.98" y="3245" width="13" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-79" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WpUKqLsLP9HWOlTt5mFc-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="158.73000000000002" y="3360" as="sourcePoint" />
+            <mxPoint x="178.73000000000002" y="3260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-80" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;exitX=1.058;exitY=0.123;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-42.996000000000095" y="3225.99" as="sourcePoint" />
+            <mxPoint x="570" y="3226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-82" value="计算注册价格" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-80">
+          <mxGeometry x="-0.8891" y="-1" relative="1" as="geometry">
+            <mxPoint x="43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-81" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="3360" as="sourcePoint" />
+            <mxPoint x="569.9999999999999" y="3030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-83" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-43.75" y="3254.5" as="sourcePoint" />
+            <mxPoint x="150" y="3255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-84" value="register注册给控制器合约本身" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-83">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-85" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-42.75" y="3275.5" as="sourcePoint" />
+            <mxPoint x="360" y="3276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-86" value="设置域名的resolver解析器地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-85">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="-35" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-89" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="WpUKqLsLP9HWOlTt5mFc-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367" y="3360" as="sourcePoint" />
+            <mxPoint x="367.3599999999998" y="3030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-91" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-43.75" y="3300" as="sourcePoint" />
+            <mxPoint x="150" y="3300.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-92" value="transferfrom转移域名给注册人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-91">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-95" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-41.769999999999996" y="3199" as="sourcePoint" />
+            <mxPoint x="151.98" y="3199.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-96" value="判断是否可注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-95">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-97" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.16" y="3300" as="sourcePoint" />
+            <mxPoint x="357.90999999999997" y="3300.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-98" value="更改域名node的owner信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-97">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="38" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-99" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.97999999999985" y="3254.5" as="sourcePoint" />
+            <mxPoint x="358.72999999999985" y="3255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-100" value="设置域名node注册表信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="WpUKqLsLP9HWOlTt5mFc-99">
+          <mxGeometry x="-0.3778" y="-1" relative="1" as="geometry">
+            <mxPoint x="34" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="358.85" y="3247" width="13" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="WpUKqLsLP9HWOlTt5mFc-104" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WpUKqLsLP9HWOlTt5mFc-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367" y="3360" as="sourcePoint" />
+            <mxPoint x="367.3599999999997" y="3030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
