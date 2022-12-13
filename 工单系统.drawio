@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T08:32:43.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vTB83rwgg84HWNj3DEAE" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T08:35:17.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3-e_1gs5XggaDcxxrSN3" version="20.5.3" type="github">
   <diagram id="4vUD-eFAPrxCVfN6HzS1" name="第 1 页">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TutCl6MzEEco9euTKRxC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TutCl6MzEEco9euTKRxC-1" target="TutCl6MzEEco9euTKRxC-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TutCl6MzEEco9euTKRxC-18" value="触达" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TutCl6MzEEco9euTKRxC-17">
-          <mxGeometry x="0.0355" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="TutCl6MzEEco9euTKRxC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=default;" edge="1" parent="1" source="TutCl6MzEEco9euTKRxC-1" target="TutCl6MzEEco9euTKRxC-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="50" />
+              <mxPoint x="765" y="50" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TutCl6MzEEco9euTKRxC-40" value="定时任务初始化+触达" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TutCl6MzEEco9euTKRxC-17">
-          <mxGeometry x="-0.4854" y="-1" relative="1" as="geometry">
-            <mxPoint x="43" as="offset" />
+        <mxCell id="TutCl6MzEEco9euTKRxC-44" value="工单信息初始化+触达+告警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TutCl6MzEEco9euTKRxC-42">
+          <mxGeometry x="-0.221" y="1" relative="1" as="geometry">
+            <mxPoint x="39" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TutCl6MzEEco9euTKRxC-1" value="trackflow&lt;br&gt;工单记录表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -100,6 +100,15 @@
         </mxCell>
         <mxCell id="TutCl6MzEEco9euTKRxC-37" value="死信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TutCl6MzEEco9euTKRxC-41" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="180" as="sourcePoint" />
+            <mxPoint x="870" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TutCl6MzEEco9euTKRxC-43" value="定时任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566" y="90" width="50" height="41.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
