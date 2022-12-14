@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T06:15:29.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mUBXbjx46OUuOsQeMj-Z" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T06:15:53.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8wfS12QFKyhiJOLepdfx" version="20.5.3" type="github">
   <diagram id="4vUD-eFAPrxCVfN6HzS1" name="第 1 页">
     <mxGraphModel dx="1497" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,22 +254,22 @@
         <mxCell id="TutCl6MzEEco9euTKRxC-144" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="913.0867464429442" y="557.5" width="104.29325355705576" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TutCl6MzEEco9euTKRxC-145" value="衍生运营玩法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="TutCl6MzEEco9euTKRxC-145" value="衍生运营玩法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="201" y="689.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TutCl6MzEEco9euTKRxC-146" value="通用玩法抽象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="TutCl6MzEEco9euTKRxC-146" value="通用玩法抽象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="201" y="825" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TutCl6MzEEco9euTKRxC-147" value="基础能力支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="TutCl6MzEEco9euTKRxC-147" value="基础能力支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="201" y="927" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TutCl6MzEEco9euTKRxC-148" value="ceiba平台底层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="TutCl6MzEEco9euTKRxC-148" value="ceiba平台底层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="198" y="1125" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TutCl6MzEEco9euTKRxC-151" value="运营场景闭环" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="TutCl6MzEEco9euTKRxC-151" value="运营场景闭环" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="207" y="455.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TutCl6MzEEco9euTKRxC-152" value="多端场景覆盖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="TutCl6MzEEco9euTKRxC-152" value="多端场景覆盖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="201" y="557.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TutCl6MzEEco9euTKRxC-81" value="通用抽码系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
