@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T05:23:38.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="b9BF9zNmFo6E1-tbSBE1" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T05:23:59.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LdzSlNJJRuMULxXAlR-t" version="21.2.9" type="github">
   <diagram id="OLWQJMdd0GZBQvJl7Ah5" name="第 1 页">
     <mxGraphModel dx="1242" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -560,10 +560,10 @@
         <mxCell id="4Jms4BtTI4VMFgCaBuWn-25" value="低耦合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="765.25" y="200" width="40.51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Jms4BtTI4VMFgCaBuWn-26" value="faas兼容层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4Jms4BtTI4VMFgCaBuWn-26" value="faas适配层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="626.99" y="200" width="69.93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Jms4BtTI4VMFgCaBuWn-27" value="faas兼容层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4Jms4BtTI4VMFgCaBuWn-27" value="faas适配层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="879.2" y="200" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
