@@ -1,17 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T15:22:59.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tihbcbyz3qsp4D-Y7tXa" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T15:37:43.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="aG5It57B1R0qsBphTSqZ" version="21.3.7" type="github">
   <diagram name="第 1 页" id="qILngWPg5egS9xk_PMey">
-    <mxGraphModel dx="1242" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2069" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1QAKIGve34cdBMiaPZUU-39" value="接口" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1QAKIGve34cdBMiaPZUU-37" target="1QAKIGve34cdBMiaPZUU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-150" width="210" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-155" width="340" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1QAKIGve34cdBMiaPZUU-1" target="1QAKIGve34cdBMiaPZUU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-42" value="定时任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1QAKIGve34cdBMiaPZUU-36">
+          <mxGeometry x="0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="500" height="230" as="geometry" />
+          <mxGeometry x="190" y="260" width="500" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="150" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="1QAKIGve34cdBMiaPZUU-3" value="H5 接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="-60" width="155" height="70" as="geometry" />
+        <mxCell id="1QAKIGve34cdBMiaPZUU-3" value="&lt;b&gt;H5 相关接口&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-60" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-4" value="句子消息重试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="360" width="120" height="30" as="geometry" />
@@ -62,28 +79,54 @@
           <mxGeometry x="535" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="20" width="155" height="250" as="geometry" />
+          <mxGeometry x="20" y="-10" width="155" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-21" value="句子消息回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="37" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-22" value="鲸域消息回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="37" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-23" value="公众号消息回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="37" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1QAKIGve34cdBMiaPZUU-24" value="消息回调接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="20" width="85" height="30" as="geometry" />
+        <mxCell id="1QAKIGve34cdBMiaPZUU-24" value="消息回调相关接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="43.25" y="-10" width="107.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-25" value="企业微信消息回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="190" width="120" height="30" as="geometry" />
+          <mxGeometry x="37" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QAKIGve34cdBMiaPZUU-26" value="支付消息回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="230" width="120" height="30" as="geometry" />
+          <mxGeometry x="37" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1QAKIGve34cdBMiaPZUU-27" value="APP 接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="-140" width="155" height="70" as="geometry" />
+        <mxCell id="1QAKIGve34cdBMiaPZUU-27" value="&lt;b&gt;APP 相关接口&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-110" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1QAKIGve34cdBMiaPZUU-28" target="1QAKIGve34cdBMiaPZUU-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-41" value="存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1QAKIGve34cdBMiaPZUU-40">
+          <mxGeometry x="-0.2462" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-60" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-31" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;t_bot_config 租户机器人助手配置表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_bot_customer 会读助手客户表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_bot_customer_binding 会读助手与公众号绑定表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_bot_customer_interact 会读助手消息交互表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_customer&amp;nbsp; 句子客户表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_user_interact 句子消息交互表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_verify_code 手机，邮箱验证码表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_login_info 登录信息表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_media_user 公众号客户表（粉丝）&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_media_user_interact 公众号消息交互表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_report 上报表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_user 核心统一用户表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_user_media 用户文章信息表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_user_media_detail 用户文章信息详情表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_user_tag 用户标签表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_user_vip 用户会员等级表&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;t_order 支付订单表&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;spacingTop=5;spacingBottom=6;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="725" y="-60" width="310" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-32" value="&lt;b&gt;定时任务&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-33" value="&lt;b&gt;逻辑&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-35" value="&lt;b&gt;数据库表&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1QAKIGve34cdBMiaPZUU-38" value="&lt;b&gt;接口层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="-150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
