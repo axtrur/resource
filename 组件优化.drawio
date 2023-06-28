@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T10:02:41.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZGQO6GNbcEjSyXaaCz6i" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T10:23:14.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="485Wsm5sXVtyUSpK73BT" version="21.5.1" type="github">
   <diagram name="第 1 页" id="4GRe8nmb9LO3hDfh0xay">
     <mxGraphModel dx="2022" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="820" width="1010" height="630" as="geometry" />
+        </mxCell>
         <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-210" y="1720" width="580" height="106" as="geometry" />
         </mxCell>
@@ -446,16 +449,16 @@
             <mxPoint x="547" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-64" value="x" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-64" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="1090" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-65" value="x" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-65" value="（默认）" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="1040" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-67" value="x" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-67" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="370" y="1090" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-68" value="x" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-68" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="55" y="1380" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V5nMvmNeROY6ZI-Vp-Y6-73" value="&lt;h1&gt;弹窗规范&lt;/h1&gt;&lt;p&gt;1. 最小弹窗尺寸 720px x 480px&lt;/p&gt;&lt;p&gt;2. 标题行高line-height控制标题高度和关闭图标宽高&lt;/p&gt;&lt;p&gt;3. 关闭图标统一line-height的正方形&lt;/p&gt;&lt;p&gt;4. 关闭位置支持4个位置&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
