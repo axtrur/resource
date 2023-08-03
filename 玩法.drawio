@@ -1,9 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T06:17:38.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="OpncOcWzCflVxjoYxa7o" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T12:10:39.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-S_pXq5jh0LtZ8jVocOg" version="21.6.6" type="github">
   <diagram name="第 1 页" id="smDExXXWGO2CVDW4qLr4">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8L-SblneVZm5bputKoWp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8L-SblneVZm5bputKoWp-1" target="8L-SblneVZm5bputKoWp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-24" value="单抽 + 连抽" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8L-SblneVZm5bputKoWp-19">
+          <mxGeometry x="-0.1" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-1" value="奖池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8L-SblneVZm5bputKoWp-2" target="8L-SblneVZm5bputKoWp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-2" value="抽奖算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8L-SblneVZm5bputKoWp-3" target="8L-SblneVZm5bputKoWp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8L-SblneVZm5bputKoWp-10">
+          <mxGeometry x="-0.0545" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-3" value="中奖信息记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8L-SblneVZm5bputKoWp-6" target="8L-SblneVZm5bputKoWp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-6" value="资格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-8" value="幸运值加权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-9" value="发货信息记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="555" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-12" value="默认抽奖算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-14" value="固定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-15" value="自选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-17" value="放回+不放回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-18" value="必中 + 彩蛋" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-21" value="按次数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-22" value="按轮次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-26" value="兑换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="475" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-SblneVZm5bputKoWp-27" value="暂存箱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="435" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
