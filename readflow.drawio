@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T15:14:37.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UnjIdUs8zMq4fJIo-xIy" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T15:14:53.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="azPjjDlK60TbwhsVa94R" version="21.6.5" type="github">
   <diagram name="第 1 页" id="dJIPi76iVZj3krwEWg67">
     <mxGraphModel dx="1242" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,14 +132,17 @@
         <mxCell id="nsF8MxTp3OHglWCViLP3-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsF8MxTp3OHglWCViLP3-73" target="nsF8MxTp3OHglWCViLP3-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-73" value="曝光日志" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="340" y="240" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="nsF8MxTp3OHglWCViLP3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsF8MxTp3OHglWCViLP3-74" target="nsF8MxTp3OHglWCViLP3-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-74" value="行为日志" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="407.89" y="240" width="60" height="80" as="geometry" />
+        <mxCell id="nsF8MxTp3OHglWCViLP3-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="253" width="127.89" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsF8MxTp3OHglWCViLP3-73" value="曝光日志" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="nsF8MxTp3OHglWCViLP3-77">
+          <mxGeometry width="60.000000000000014" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsF8MxTp3OHglWCViLP3-74" value="行为日志" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="nsF8MxTp3OHglWCViLP3-77">
+          <mxGeometry x="67.89" width="60.000000000000014" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
