@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T14:23:06.307Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BbZytdghjlQBxmmOJlDb" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T14:33:05.559Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="CkFi18e5DEkOJECjvfTC" version="21.6.5" type="github">
   <diagram name="第 1 页" id="dJIPi76iVZj3krwEWg67">
     <mxGraphModel dx="1242" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,36 +95,36 @@
         <mxCell id="nsF8MxTp3OHglWCViLP3-2" value="embeding算法组件层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="720" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-6" value="OpenAI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nsF8MxTp3OHglWCViLP3-6" value="GPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="770" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-7" value="TSF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nsF8MxTp3OHglWCViLP3-7" value="BERT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="770" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nsF8MxTp3OHglWCViLP3-8" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="715" y="770" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-9" value="es存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nsF8MxTp3OHglWCViLP3-9" value="向量存储(ES)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="840" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-12" value="embeding" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsF8MxTp3OHglWCViLP3-13" target="nsF8MxTp3OHglWCViLP3-5">
+        <mxCell id="nsF8MxTp3OHglWCViLP3-12" value="定时任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nsF8MxTp3OHglWCViLP3-13" target="nsF8MxTp3OHglWCViLP3-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="750" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nsF8MxTp3OHglWCViLP3-13" value="全量 ｜ T-7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="735" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nsF8MxTp3OHglWCViLP3-16" target="nsF8MxTp3OHglWCViLP3-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-15" value="定时任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nsF8MxTp3OHglWCViLP3-14">
-          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="nsF8MxTp3OHglWCViLP3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nsF8MxTp3OHglWCViLP3-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="755" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nsF8MxTp3OHglWCViLP3-16" value="离线 embeding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="735" width="120" height="40" as="geometry" />
+        <mxCell id="nsF8MxTp3OHglWCViLP3-20" value="离线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nsF8MxTp3OHglWCViLP3-14">
+          <mxGeometry x="-0.3447" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
