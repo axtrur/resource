@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T02:13:56.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MxUuu8ApB4itkcXaF6vg" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T02:24:45.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7mMdT14wPdaSPgm0Pc__" version="21.6.9" type="github">
   <diagram name="第 1 页" id="smDExXXWGO2CVDW4qLr4">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,6 +88,18 @@
         </mxCell>
         <mxCell id="dWW4C1Km72qKJxNwkvUH-7" value="快照备份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dWW4C1Km72qKJxNwkvUH-8" value="ext&lt;br&gt;玩家头像昵称，俱乐部，联盟，区服，军团等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWW4C1Km72qKJxNwkvUH-9" value="binding&lt;br&gt;绑定信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWW4C1Km72qKJxNwkvUH-10" value="&lt;h1&gt;榜单接口&lt;/h1&gt;&lt;p&gt;1. 榜单接口&lt;/p&gt;&lt;p&gt;2. 榜单快照&lt;/p&gt;&lt;p&gt;3. 排名查询&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="930" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dWW4C1Km72qKJxNwkvUH-11" value="&lt;h1&gt;通用排行榜组件&lt;/h1&gt;&lt;p&gt;1. 排名&lt;/p&gt;&lt;p&gt;2. 固定字段：名字，logo，绑定人数，排名，分值&lt;/p&gt;&lt;p&gt;3. 详情（ext -&amp;gt; 弹窗）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="680" width="350" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
