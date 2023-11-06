@@ -1,9 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T07:11:07.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="AH8vChBKeLDeSlcv1b8D" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T07:53:09.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RiDug5Y91I7fieTVB_WP" version="22.0.8" type="github">
   <diagram name="第 1 页" id="TKL4cwQws0rQZmdpnuPt">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Zqahy0WSSekfARUYXS8-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="180" width="420" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="640" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-1" target="4Zqahy0WSSekfARUYXS8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-1" target="4Zqahy0WSSekfARUYXS8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-1" value="微信用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-2" target="4Zqahy0WSSekfARUYXS8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-2" target="4Zqahy0WSSekfARUYXS8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-2" target="4Zqahy0WSSekfARUYXS8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-2" value="QQ用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-3" target="4Zqahy0WSSekfARUYXS8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-3" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-4" value="微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-5" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-6" target="4Zqahy0WSSekfARUYXS8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-6" value="微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-7" target="4Zqahy0WSSekfARUYXS8-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-7" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-8" target="4Zqahy0WSSekfARUYXS8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-8" value="QQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-18" value="弹窗&lt;br&gt;引导QQ用户绑定授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-19" target="4Zqahy0WSSekfARUYXS8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-19" value="重定向&lt;br&gt;授权绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-18" target="4Zqahy0WSSekfARUYXS8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-24" value="弹窗二维码&lt;br&gt;引导微信打开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="630" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="661" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-39" value="强制qq登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4Zqahy0WSSekfARUYXS8-37">
+          <mxGeometry x="0.5358" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-26" value="弹窗二维码&lt;br&gt;引导微信打开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-41" value="强制qq登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4Zqahy0WSSekfARUYXS8-36">
+          <mxGeometry x="0.7905" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-31" value="弹窗二维码&lt;br&gt;引导微信打开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-47" value="&lt;h1&gt;活动红包发放流程&lt;/h1&gt;&lt;p&gt;1. 活动资格与红包资格分开&lt;/p&gt;&lt;p&gt;2. qq绑定微信openid逻辑尽量后置&lt;/p&gt;&lt;p&gt;3. 需支持大额发放（微信限制单用户1000元）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-49" value="&lt;h1&gt;活动红包发放触发入口&lt;/h1&gt;&lt;p&gt;1. 页面内领取按钮&lt;/p&gt;&lt;p&gt;2. 抽奖弹窗提示底部领取按钮&lt;/p&gt;&lt;p&gt;3. 抽奖记录右边领取按钮&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="40" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-52" value="QQ用户绑定微信逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="980" y="540" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-53" value="公众号红包发放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-56" value="企业大额转账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-63" target="4Zqahy0WSSekfARUYXS8-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-65" value="直接发放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4Zqahy0WSSekfARUYXS8-64">
+          <mxGeometry x="0.197" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Zqahy0WSSekfARUYXS8-63" target="4Zqahy0WSSekfARUYXS8-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-67" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;填写姓名&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4Zqahy0WSSekfARUYXS8-66">
+          <mxGeometry x="0.1061" y="2" relative="1" as="geometry">
+            <mxPoint x="10" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-63" value="大额判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zqahy0WSSekfARUYXS8-68" value="发放逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1490" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
