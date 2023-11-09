@@ -1,9 +1,255 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T05:36:11.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.1.0" etag="I3WCZidajy69V4Nc3GiT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T07:05:52.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CLVmsKbqEq3-mW7oRAMr" version="22.1.0" type="github">
   <diagram name="第 1 页" id="BeSVWg6-v6-BRttj8wCC">
-    <mxGraphModel>
+    <mxGraphModel dx="2022" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="1060" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="TdUxdHYEaK7K-AHOdYRr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="1060" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;提需求，需求评审&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-5" value="10-26 下午&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249" y="400" as="sourcePoint" />
+            <mxPoint x="309" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-9" value="基础微信功能调研+梳理每项功能工时&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;（增加私域的正职一起开发）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="224" y="405" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-10" value="10-27&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="289" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;财管给到证书和密钥&lt;br style=&quot;font-size: 10px;&quot;&gt;私域开发同学上午验证公众号发红包的可行性&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="414" y="355" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-17" value="10-30上午" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="479" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-20" value="10-30下午" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="674" y="355" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-21" value="ceiba和私域开发同学对完开发方案跟细节&lt;br&gt;沟通调整安排ceiba侧人力&lt;br&gt;私域侧赶在11-03先给出协议结构，ceiba侧同学同步开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="584" y="405" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-24" target="TdUxdHYEaK7K-AHOdYRr-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="1060" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="709" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-2" target="TdUxdHYEaK7K-AHOdYRr-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="709" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="514" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="309" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-29" value="11-01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-31" value="依赖公众号的红包发放能力预研流程已跑通&lt;br&gt;正式进入开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="827" y="350" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-18" target="TdUxdHYEaK7K-AHOdYRr-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="400" as="sourcePoint" />
+            <mxPoint x="1060" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="950" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-53" target="TdUxdHYEaK7K-AHOdYRr-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="565" as="sourcePoint" />
+            <mxPoint x="1200" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="TdUxdHYEaK7K-AHOdYRr-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="565" as="sourcePoint" />
+            <mxPoint x="1060" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;开发过程就各种之前没预料到的情况边界情况处理调研&lt;br style=&quot;font-size: 10px;&quot;&gt;并与产品讨论&lt;br style=&quot;font-size: 10px;&quot;&gt;（&lt;br&gt;微信限制&lt;br style=&quot;font-size: 10px;&quot;&gt;单用户每日上限，&lt;br style=&quot;font-size: 10px;&quot;&gt;单笔红包金额&amp;gt;200，&lt;br style=&quot;font-size: 10px;&quot;&gt;QQ用户怎么处理，&lt;br style=&quot;font-size: 10px;&quot;&gt;用户忘记在活动页领取怎么处理，&lt;br style=&quot;font-size: 10px;&quot;&gt;用户忘记领取红包被退回&lt;br style=&quot;font-size: 10px;&quot;&gt;）&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="25" y="590" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-37" value="11-02" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="125" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="363" y="565" as="sourcePoint" />
+            <mxPoint x="423" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-40" value="11-03下午" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="412" y="518" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-43" value="11-06" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="625" y="578" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-44" value="&lt;font color=&quot;#cc0000&quot;&gt;开发侧预研结束并给出大额转账的三种方案&lt;br&gt;（实名以及需商户手动确认转账的逻辑）&lt;br&gt;并和产品讨论确定最终采纳的方案以及用户实名填写的交互和开发细节&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="491" y="508" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="TdUxdHYEaK7K-AHOdYRr-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.9999999999998" y="565" as="sourcePoint" />
+            <mxPoint x="1071" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="646" y="553" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467.00000000005093" y="565" as="sourcePoint" />
+            <mxPoint x="580.9999999999998" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-50" value="11-07" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="829" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;上午确定最终的交互逻辑，并给出多出来的工作量（2-3天）&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;下午开发同学在原有功能基础上进行改造&lt;br&gt;（新增QQ和大额转账，实名等功能）&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="714" y="578" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-46" target="TdUxdHYEaK7K-AHOdYRr-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="779" y="565" as="sourcePoint" />
+            <mxPoint x="1110" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="849" y="553" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="565" as="sourcePoint" />
+            <mxPoint x="473.9999999999486" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-55" value="&lt;font color=&quot;#cc0000&quot;&gt;下午 产品要增加大额转账能力&lt;br&gt;需预研大额转账的功能可行性&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="382" y="590" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="565" as="sourcePoint" />
+            <mxPoint x="300" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-63" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;上午给出协议，同步开发&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="264" y="520" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124" y="565" as="sourcePoint" />
+            <mxPoint x="477.9999999999998" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-66" value="11-03上午" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="278" y="585" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-35" target="TdUxdHYEaK7K-AHOdYRr-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="565" as="sourcePoint" />
+            <mxPoint x="541" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="313" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="560" as="sourcePoint" />
+            <mxPoint x="1294" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-69" value="11-08" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="994" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-70" value="&lt;font color=&quot;#cc0000&quot;&gt;确认斗破作为第一个游戏上线&lt;br&gt;&lt;/font&gt;由于设计增加的工作量&lt;br style=&quot;font-size: 10px;&quot;&gt;与产品讨论并砍掉新增功能，确保第一个活动上线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="904" y="500" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="553" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-72" value="11-09" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-73" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-74" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;正常开发&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1134" y="518" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1175" y="564.58" as="sourcePoint" />
+            <mxPoint x="1334" y="564.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-76" value="11-10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-78" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;正常联调&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1214" y="518" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-79" value="11-13" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-81" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;活动配置提测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1274" y="518" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-82" value="需求预研阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-55" y="385" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-83" value="开发阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-50" y="548" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TdUxdHYEaK7K-AHOdYRr-65" target="TdUxdHYEaK7K-AHOdYRr-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349" y="565" as="sourcePoint" />
+            <mxPoint x="504.9999999999998" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdUxdHYEaK7K-AHOdYRr-84" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="447" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
