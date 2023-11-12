@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T15:33:54.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="b2xc96XDjDjLjA7BKjkH" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T15:40:10.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oJO8IP10KIWTWJ7hOlMl" version="21.6.8" type="github">
   <diagram name="第 1 页" id="uXKxFH6BH8vUdpIIgOjY">
-    <mxGraphModel dx="1461" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2070" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,6 @@
         <mxCell id="V1CnUA2cE-rUWkjXoKsr-8" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V1CnUA2cE-rUWkjXoKsr-9" value="微信号信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="190" width="240" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="V1CnUA2cE-rUWkjXoKsr-10" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="230" width="120" height="40" as="geometry" />
         </mxCell>
@@ -54,15 +51,6 @@
         </mxCell>
         <mxCell id="V1CnUA2cE-rUWkjXoKsr-17" value="avenhuang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="230" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V1CnUA2cE-rUWkjXoKsr-18" value="涉及3200个微信号，&lt;font color=&quot;#ff2f05&quot;&gt;异常150个&lt;/font&gt;&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="230" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V1CnUA2cE-rUWkjXoKsr-21" value="发放明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="190" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V1CnUA2cE-rUWkjXoKsr-22" value="&lt;u&gt;查看&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1CnUA2cE-rUWkjXoKsr-23" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="270" width="120" height="40" as="geometry" />
@@ -88,12 +76,6 @@
         <mxCell id="V1CnUA2cE-rUWkjXoKsr-30" value="avenhuang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V1CnUA2cE-rUWkjXoKsr-31" value="涉及3200个微信号，&lt;font color=&quot;#24850c&quot;&gt;异常0个&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="270" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V1CnUA2cE-rUWkjXoKsr-32" value="&lt;u&gt;查看&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="270" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="V1CnUA2cE-rUWkjXoKsr-33" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="525" width="120" height="40" as="geometry" />
         </mxCell>
@@ -112,7 +94,7 @@
         <mxCell id="V1CnUA2cE-rUWkjXoKsr-76" value="&lt;h1&gt;状态&lt;/h1&gt;&lt;p&gt;1. 未上传礼包记录&lt;/p&gt;&lt;p&gt;2. 未上传业受微信转换结果&lt;/p&gt;&lt;p&gt;3. 待确认校验结果&lt;/p&gt;&lt;p&gt;4. 已确认校验结果&lt;/p&gt;&lt;p&gt;5. 发放完成&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1409.46" y="880" width="190" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="V1CnUA2cE-rUWkjXoKsr-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V1CnUA2cE-rUWkjXoKsr-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="310" as="sourcePoint" />
             <mxPoint x="1090" y="510" as="targetPoint" />
@@ -308,6 +290,63 @@
         </mxCell>
         <mxCell id="V1CnUA2cE-rUWkjXoKsr-104" value="活动ID: xxx" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=7;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-116">
           <mxGeometry width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-117" value="新增红包发放任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="140" width="140.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-120" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="190" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-9" value="微信号信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-120">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-18" value="涉及3200个微信号&lt;br&gt;&lt;font color=&quot;#ff2f05&quot;&gt;异常150个&lt;/font&gt;&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-120">
+          <mxGeometry y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-31" value="涉及3200个微信号&lt;br&gt;&lt;font color=&quot;#24850c&quot;&gt;异常0个&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-120">
+          <mxGeometry y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-121" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1190" y="190" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-122" value="已发放信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-121">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-123" value="发放红包数：67545个&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放总金额：1634215元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-121">
+          <mxGeometry y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-124" value="发放红包数：67545个&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放总金额：1634215元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-121">
+          <mxGeometry y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-125" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1350" y="190" width="140.67" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-21" value="发放明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-125">
+          <mxGeometry width="140.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-22" value="&lt;u&gt;查看&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-125">
+          <mxGeometry y="40" width="140.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-32" value="&lt;u&gt;查看&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1CnUA2cE-rUWkjXoKsr-125">
+          <mxGeometry y="80" width="140.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-126" value="JSON编辑框" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1CnUA2cE-rUWkjXoKsr-3" target="V1CnUA2cE-rUWkjXoKsr-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="150" as="sourcePoint" />
+            <mxPoint x="420" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-129" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1CnUA2cE-rUWkjXoKsr-4" target="V1CnUA2cE-rUWkjXoKsr-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="140" as="sourcePoint" />
+            <mxPoint x="520" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1CnUA2cE-rUWkjXoKsr-131" value="JSON编辑框" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
