@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T08:12:29.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bVU6xcEGBdcU7fv5u1Nx" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T08:21:37.550Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fj-JAg6bTngIXN5ybPzF" version="22.1.18" type="github">
   <diagram name="第 1 页" id="U7sybSRnqge9UdC9qBEp">
     <mxGraphModel dx="2380" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -600,6 +600,27 @@
         </mxCell>
         <mxCell id="fzm7APyc1zLrhWA9xsSt-96" value="支持业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-259.30000000000007" y="1694" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm7APyc1zLrhWA9xsSt-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fzm7APyc1zLrhWA9xsSt-100" target="fzm7APyc1zLrhWA9xsSt-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm7APyc1zLrhWA9xsSt-100" value="&lt;b&gt;降低货币化依赖&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="342" y="2687" width="131" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm7APyc1zLrhWA9xsSt-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fzm7APyc1zLrhWA9xsSt-101" target="fzm7APyc1zLrhWA9xsSt-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm7APyc1zLrhWA9xsSt-101" value="平台交互做减法" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="599.9300000000002" y="2696" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm7APyc1zLrhWA9xsSt-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fzm7APyc1zLrhWA9xsSt-102" target="fzm7APyc1zLrhWA9xsSt-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm7APyc1zLrhWA9xsSt-102" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;测试周期提效&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50.69999999999999" y="2670.5" width="164" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm7APyc1zLrhWA9xsSt-103" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;大CEIBA&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="860" y="2676" width="154" height="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
