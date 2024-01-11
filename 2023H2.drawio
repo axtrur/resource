@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T08:12:07.634Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J3B2SN7Ry-VZOViCg5WG" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T08:12:29.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bVU6xcEGBdcU7fv5u1Nx" version="22.1.18" type="github">
   <diagram name="第 1 页" id="U7sybSRnqge9UdC9qBEp">
     <mxGraphModel dx="2380" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
         <mxCell id="KYgMNz7VvU_ds5sTVOri-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzm7APyc1zLrhWA9xsSt-12" value="前端编辑器 + 后端流程编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fzm7APyc1zLrhWA9xsSt-12" value="前端编辑器 + 后端流程编排 + 发布构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190.8" y="2330" width="1041.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fzm7APyc1zLrhWA9xsSt-19" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
