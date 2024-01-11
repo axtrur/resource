@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T05:58:49.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FgzSFOZjQCn0achVdovN" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T06:58:42.712Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZhzCE17kS4BjSEEeMb6u" version="22.1.18" type="github">
   <diagram name="第 1 页" id="U7sybSRnqge9UdC9qBEp">
     <mxGraphModel dx="3207" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,7 +296,7 @@
           <mxGeometry x="570" y="2090" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KYgMNz7VvU_ds5sTVOri-50" value="流水查询" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="652.5" y="1970" width="84" height="30" as="geometry" />
+          <mxGeometry x="690" y="2293" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KYgMNz7VvU_ds5sTVOri-51" value="渠道管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="474" y="2050" width="84" height="30" as="geometry" />
