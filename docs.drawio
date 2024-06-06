@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T03:11:38.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fJiGpW9GbeVqYaqlG4VP" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T03:16:56.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6HLlvcCYRpvkkjDmmUQg" version="24.4.4" type="github">
   <diagram name="Page-1" id="-2MPfPXkSiiVKLxUfJAF">
     <mxGraphModel dx="1185" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
         </mxCell>
         <mxCell id="w0ZLAHAjlqKFtDmCD01x-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0ZLAHAjlqKFtDmCD01x-76" target="w0ZLAHAjlqKFtDmCD01x-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="1430" as="targetPoint" />
+            <mxPoint x="430" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w0ZLAHAjlqKFtDmCD01x-78" value="创建资格" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w0ZLAHAjlqKFtDmCD01x-77">
@@ -243,7 +243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w0ZLAHAjlqKFtDmCD01x-76" value="物品管理-资格限量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1420" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="1530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w0ZLAHAjlqKFtDmCD01x-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0ZLAHAjlqKFtDmCD01x-79" target="w0ZLAHAjlqKFtDmCD01x-80">
           <mxGeometry relative="1" as="geometry" />
@@ -264,26 +264,70 @@
         <mxCell id="w0ZLAHAjlqKFtDmCD01x-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0ZLAHAjlqKFtDmCD01x-79" target="w0ZLAHAjlqKFtDmCD01x-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0ZLAHAjlqKFtDmCD01x-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="629.8571428571429" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w0ZLAHAjlqKFtDmCD01x-79" value="限量检查（走资源，走限量）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1420" width="180" height="40" as="geometry" />
+          <mxGeometry x="540" y="1530" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w0ZLAHAjlqKFtDmCD01x-80" value="资源发放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1570" width="180" height="40" as="geometry" />
+          <mxGeometry x="540" y="1680" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w0ZLAHAjlqKFtDmCD01x-85" value="资格初始化查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1420" width="120" height="40" as="geometry" />
+          <mxGeometry x="940" y="1530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w0ZLAHAjlqKFtDmCD01x-87" value="按资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1660" width="120" height="20" as="geometry" />
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-104" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="1300" width="460" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="w0ZLAHAjlqKFtDmCD01x-89" value="{{资源id}}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1660" width="120" height="20" as="geometry" />
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-93" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry width="459.99999999999994" height="72.4390243902439" as="geometry" />
         </mxCell>
-        <mxCell id="w0ZLAHAjlqKFtDmCD01x-90" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="914" y="1664" width="10" height="14" as="geometry" />
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-87" value="资源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="83.8" y="38.414634146341456" width="110.39999999999999" height="16.097560975609753" as="geometry" />
         </mxCell>
-        <mxCell id="w0ZLAHAjlqKFtDmCD01x-91" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="1664" width="10" height="14" as="geometry" />
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-89" value="{{资源id}}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="298.15999999999997" y="36.414634146341456" width="110.39999999999999" height="16.097560975609753" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-90" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="179.48" y="41.63414634146341" width="9.2" height="11.268292682926829" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-91" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="394.75999999999993" y="39.63414634146341" width="9.2" height="11.268292682926829" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-92" value="资格限量检查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="13.799999999999999" y="4.024390243902438" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-94" value="资格限量按照" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="13.799999999999999" y="36.21951219512195" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-95" value="来检查，对应的资源id是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="190.07999999999996" y="36.21951219512195" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-96" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry y="92.5609756097561" width="459.99999999999994" height="72.4390243902439" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-97" value="限量" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="82.8" y="135" width="110.39999999999999" height="16.097560975609753" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-98" value="{{限量id}}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="298.15999999999997" y="132" width="110.39999999999999" height="16.097560975609753" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-99" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="178.48" y="135.21951219512195" width="9.2" height="11.268292682926829" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-100" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="397.75999999999993" y="133.21951219512195" width="9.2" height="11.268292682926829" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-101" value="资格限量检查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="13.799999999999999" y="96.58536585365853" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-102" value="资格限量按照" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="13.799999999999999" y="132.80487804878047" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w0ZLAHAjlqKFtDmCD01x-103" value="来检查，对应的限量id是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="w0ZLAHAjlqKFtDmCD01x-104">
+          <mxGeometry x="187.07999999999996" y="130.80487804878047" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
