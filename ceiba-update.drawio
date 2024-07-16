@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T11:54:19.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="x25R3CA4lasUAu9tBkJ4" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T12:06:20.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="x7DG9hpBUwUcis9HoKxb" version="24.6.5" type="github">
   <diagram name="第 1 页" id="ZgOi2Y39SkQLw-ujJerj">
     <mxGraphModel dx="2901" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,13 +401,31 @@
           <mxGeometry x="-410" y="2470" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-1" value="场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="3560" width="120" height="40" as="geometry" />
+          <mxGeometry x="-58" y="3480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3KUTU8w4tKbYZ8TQ4dXh-3" target="3KUTU8w4tKbYZ8TQ4dXh-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-3" value="公共参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="3560" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3KUTU8w4tKbYZ8TQ4dXh-4" target="3KUTU8w4tKbYZ8TQ4dXh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-4" value="动作标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="3560" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="3560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-5" value="动作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-59.19" y="3560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-6" value="DSL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="3550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-7" value="场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="3620" width="560" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="3312" width="40" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
