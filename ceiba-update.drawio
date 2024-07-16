@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T12:47:08.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CymZe6AKTfORcYC9AMeH" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T12:47:39.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="l8X1RZtrnvzUc-KaWYki" version="24.6.5" type="github">
   <diagram name="第 1 页" id="ZgOi2Y39SkQLw-ujJerj">
     <mxGraphModel dx="2257" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3KUTU8w4tKbYZ8TQ4dXh-47" target="3KUTU8w4tKbYZ8TQ4dXh-44">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-56" value="smid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3KUTU8w4tKbYZ8TQ4dXh-48">
+          <mxGeometry x="-0.1048" y="3" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-282" y="3400" width="558" height="44" as="geometry" />
@@ -455,7 +460,7 @@
           <mxGeometry x="-24" y="3238" width="40" height="450" as="geometry" />
         </mxCell>
         <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-44" value="流程引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50.616666666666674" y="3333" width="95.23809523809524" height="30" as="geometry" />
+          <mxGeometry x="-50.616666666666674" y="3320" width="95.23809523809524" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-49" value="应用场景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-363" y="3412" width="70" height="30" as="geometry" />
