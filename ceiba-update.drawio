@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T12:47:39.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="l8X1RZtrnvzUc-KaWYki" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T01:51:02.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WbI6u2Bwq1l2OXC3sSFv" version="24.6.5" type="github">
   <diagram name="第 1 页" id="ZgOi2Y39SkQLw-ujJerj">
     <mxGraphModel dx="2257" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -503,6 +503,24 @@
         </mxCell>
         <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-55" value="运营配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-363" y="3633" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-57" value="ceiba-backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="3850" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-58" value="base-mgr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="3890" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-60" value="act-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="3850" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-61" value="wpe-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44.620000000000005" y="3850" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-62" value="action-base-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="3850" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3KUTU8w4tKbYZ8TQ4dXh-63" value="action-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="3890" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
