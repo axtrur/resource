@@ -539,39 +539,39 @@
           <mxGeometry x="152" y="3980" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-1" value="ceiba-action-public-srv" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="4130" width="180" height="30" as="geometry" />
+          <mxGeometry x="-170" y="4228" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-2" value="ceiba-action-tgclub-srv" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="4170" width="180" height="30" as="geometry" />
+          <mxGeometry x="-170" y="4268" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-3" value="..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="4210" width="180" height="30" as="geometry" />
+          <mxGeometry x="-170" y="4308" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-4" value="act-public-component" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="4130" width="180" height="30" as="geometry" />
+          <mxGeometry x="-520" y="4228" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-5" value="act-tgclub-component" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="4170" width="180" height="30" as="geometry" />
+          <mxGeometry x="-520" y="4268" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-6" value="..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="4210" width="180" height="30" as="geometry" />
+          <mxGeometry x="-520" y="4308" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-7" value="前端组件库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-191" y="4092" width="91" height="30" as="geometry" />
+          <mxGeometry x="-481" y="4190" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-8" value="动作服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="164.5" y="4100" width="91" height="30" as="geometry" />
+          <mxGeometry x="-125.5" y="4198" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CqPk4KsCqGoVwBX9vkjO-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="4180" as="targetPoint" />
+            <mxPoint x="50" y="4278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-9" value="研效平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="4150" width="70" height="60" as="geometry" />
+          <mxGeometry x="100" y="4248" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CqPk4KsCqGoVwBX9vkjO-11" value="bcs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="190" y="4240" width="40" height="30" as="geometry" />
+          <mxGeometry x="-100" y="4338" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="717qAj1gempmEKdRWy29-1" value="奖池类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-510" y="5050" width="120" height="20" as="geometry" />
@@ -824,6 +824,63 @@
         </mxCell>
         <mxCell id="4CKXVjhfgZ5CCVPgtxye-10" value="C端用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-513" y="3940" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="6350" width="990" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-19" value="A活动工作区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="6430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-20" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;百宝季工作区&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-224" y="6430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-22" value="按工作区名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="6380" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-23" value="按标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-296" y="6380" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-24" value="开始时间-结束时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-147.5" y="6380" width="127.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-25" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;百宝季工作区&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="6430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-26" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;百宝季工作区&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="6430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-27" value="A活动工作区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="6540" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-28" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;百宝季工作区&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-224" y="6540" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-29" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;百宝季工作区&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="6540" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-30" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;百宝季工作区&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="6540" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="6940" width="990" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-34" value="资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="6970" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-35" value="限量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="6970" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-36" value="玩法配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="6970" width="127.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-43" value="job配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="6970" width="127.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-44" value="faas配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="6970" width="127.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-45" value="资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="6990" width="855" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
