@@ -903,7 +903,7 @@
         <mxCell id="4CKXVjhfgZ5CCVPgtxye-53" value="job配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="27" y="7530" width="127.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4CKXVjhfgZ5CCVPgtxye-54" value="资源流水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4CKXVjhfgZ5CCVPgtxye-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-445" y="7550" width="855" height="430" as="geometry" />
         </mxCell>
         <mxCell id="4CKXVjhfgZ5CCVPgtxye-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
