@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="60" width="910" height="360" as="geometry" />
         </mxCell>
         <mxCell id="zM7UcT_Rp65xprqbE8a4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="90" width="170" height="250" as="geometry" />
+          <mxGeometry x="770" y="90" width="170" height="290" as="geometry" />
         </mxCell>
         <mxCell id="zM7UcT_Rp65xprqbE8a4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zM7UcT_Rp65xprqbE8a4-1" target="zM7UcT_Rp65xprqbE8a4-2">
           <mxGeometry relative="1" as="geometry" />
@@ -22,9 +22,6 @@
         <mxCell id="zM7UcT_Rp65xprqbE8a4-2" value="ceiba-activity-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zM7UcT_Rp65xprqbE8a4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zM7UcT_Rp65xprqbE8a4-3" target="zM7UcT_Rp65xprqbE8a4-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zM7UcT_Rp65xprqbE8a4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zM7UcT_Rp65xprqbE8a4-3" target="zM7UcT_Rp65xprqbE8a4-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -32,10 +29,10 @@
           <mxGeometry x="430" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zM7UcT_Rp65xprqbE8a4-4" value="up-action-base-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="800" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zM7UcT_Rp65xprqbE8a4-5" value="up-action-global-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="zM7UcT_Rp65xprqbE8a4-5" value="ceiba-action-global-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="300" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zM7UcT_Rp65xprqbE8a4-6" value="resource-srv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="200" width="120" height="40" as="geometry" />
