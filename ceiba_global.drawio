@@ -78,8 +78,8 @@
         <mxCell id="zM7UcT_Rp65xprqbE8a4-26" value="海外新加坡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zM7UcT_Rp65xprqbE8a4-27" value="基础服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="90" width="70" height="30" as="geometry" />
+        <mxCell id="zM7UcT_Rp65xprqbE8a4-27" value="其他基础服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="815" y="90" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
