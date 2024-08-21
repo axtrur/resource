@@ -79,8 +79,8 @@
         <mxCell id="zM7UcT_Rp65xprqbE8a4-14" value="活动前端页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zM7UcT_Rp65xprqbE8a4-26" value="新加坡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="60" height="30" as="geometry" />
+        <mxCell id="zM7UcT_Rp65xprqbE8a4-26" value="海外新加坡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
