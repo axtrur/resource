@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="8D4Khury5t_Vpuh3uYas">
-    <mxGraphModel dx="2069" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2288" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="zM7UcT_Rp65xprqbE8a4-27" value="其他基础服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="815" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zM7UcT_Rp65xprqbE8a4-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;分工&lt;/h1&gt;&lt;p&gt;网关+环境：mermerlin&lt;/p&gt;&lt;p&gt;wpe-srv: shawnstang&lt;/p&gt;&lt;p&gt;limit-srv: shawnstang&lt;/p&gt;&lt;p&gt;resource-srv: shawnstang&lt;/p&gt;&lt;p&gt;mrms-srv: gengxiongwu + shakechen&lt;/p&gt;&lt;p&gt;ceiba-action-global-srv: terrychu + 文康&lt;/p&gt;&lt;p&gt;up-action-base-srv: terrychu&lt;/p&gt;&lt;p&gt;ceiba-activity-srv: derrickduan + av&lt;/p&gt;&lt;p&gt;ceiba-admin-mgr: av&lt;/p&gt;&lt;p&gt;ceiba-wpe-mgr: av&lt;/p&gt;&lt;p&gt;ceiba-base-mgr: av&lt;/p&gt;&lt;p&gt;管理端前端改造：av+香海&lt;/p&gt;&lt;p&gt;活动页前端：pec + 汤鹏 + 陈新&lt;/p&gt;&lt;p&gt;埋点消费旁路：pec + 阿强&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="5" width="320" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
