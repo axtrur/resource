@@ -1358,14 +1358,14 @@
             <mxPoint x="302.09876543209873" y="8222.791089802842" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-1" value="指标B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-232.00116193933292" y="8429.999651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-1" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-370.001161939333" y="8407.649651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-3" value="指标B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-293.41116193933294" y="8429.999651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
+          <mxGeometry x="-422.91116193933294" y="8389.999651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-4" value="指标B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-349.71116193933295" y="8429.999651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-4" value="指标A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-466.7111619393329" y="8359.999651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-5" value="游戏" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-545.4111619393329" y="8162.399651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
