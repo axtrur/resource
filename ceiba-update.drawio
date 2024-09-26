@@ -10,6 +10,12 @@
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-151" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="857" y="10380" width="160" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-157" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="10540" width="830" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="10370" width="830" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="717qAj1gempmEKdRWy29-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="5030" width="970" height="430" as="geometry" />
         </mxCell>
@@ -1753,7 +1759,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-123" value="JSON schema 规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-123" value="JSON schema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="10450" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-124" value="页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1802,7 +1808,7 @@
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-140" value="DSL schema 规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-140" value="DSL schema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="10550" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-152" value="配置编排" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1810,12 +1816,6 @@
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-154" value="渲染执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1407" y="10630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="10370" width="830" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-157" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="10540" width="830" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-167" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1580" y="10445" width="50" height="30" as="geometry" />
