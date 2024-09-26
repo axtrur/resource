@@ -1880,6 +1880,14 @@
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-168" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jpDm9ZDBSrUWAqoi2Hpj-184">
           <mxGeometry x="663.695652173913" y="185" width="38.58695652173913" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jpDm9ZDBSrUWAqoi2Hpj-185">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="10488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-185" value="Meta&lt;div&gt;积木控件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="10473" width="81" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
