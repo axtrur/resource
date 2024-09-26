@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-153" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="10370" width="160" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-151" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="597" y="10330" width="160" height="280" as="geometry" />
+          <mxGeometry x="597" y="10370" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="717qAj1gempmEKdRWy29-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="5030" width="970" height="430" as="geometry" />
@@ -1802,8 +1805,17 @@
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-140" value="DSL schema 规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="10540" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-152" value="前端模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="647" y="10330" width="60" height="30" as="geometry" />
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-152" value="前端编排" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="647" y="10620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-154" value="渲染执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="10620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10360" width="830" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-157" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10530" width="830" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
