@@ -2062,7 +2062,7 @@
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-275" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-199" y="11560" width="82" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-277" value="小程序托管" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-277" value="小程序托管" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-906" y="11600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-280" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -2098,9 +2098,9 @@
             <mxPoint x="-530" y="11630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-289" value="渠道跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jpDm9ZDBSrUWAqoi2Hpj-288">
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-289" value="渠道跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=12;" vertex="1" connectable="0" parent="jpDm9ZDBSrUWAqoi2Hpj-288">
           <mxGeometry x="0.0571" y="-2" relative="1" as="geometry">
-            <mxPoint x="6" y="1" as="offset" />
+            <mxPoint x="4" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
