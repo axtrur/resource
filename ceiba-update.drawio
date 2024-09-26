@@ -1633,6 +1633,24 @@
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-77" value="ceiba-xxx-mgr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370.12" y="9890" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-78" value="ceiba-backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-506.5" y="10320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-79" value="marketing-mgr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-505.5" y="10380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-80" value="wpe-mgr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-506.5" y="10440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-81" value="ceiba" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-644.12" y="10320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-82" value="v.ied" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-644.12" y="10380" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-83" value="商城&lt;div&gt;cms&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-644.12" y="10440" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
