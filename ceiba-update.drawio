@@ -1805,7 +1805,7 @@
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-140" value="DSL schema 规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="10540" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-152" value="前端编排" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-152" value="配置编排" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="647" y="10620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-154" value="渲染执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
