@@ -1373,7 +1373,7 @@
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-6" value="渠道" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-587.4111619393329" y="8199.819651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-7" value="指标B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-7" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-620.0011619393329" y="8243.639651697835" width="37.415826806546455" height="37.415826806546455" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.128;exitY=0.312;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XBLjVDyDlWbLomO4UThe-2">
