@@ -1693,7 +1693,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-96" value="子模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-96" value="子模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DB9A58;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-71" y="10420" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpDm9ZDBSrUWAqoi2Hpj-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
