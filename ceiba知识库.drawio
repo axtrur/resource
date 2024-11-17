@@ -1081,7 +1081,7 @@
             <mxPoint x="676.5" y="3299.95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSDi5wLEAWpX8-8FXI7O-216" value="逻辑调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="sSDi5wLEAWpX8-8FXI7O-216" value="逻辑调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="596.5" y="3275" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-219" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.499;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sSDi5wLEAWpX8-8FXI7O-106">
