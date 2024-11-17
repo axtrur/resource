@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="y5vcNTlstIUAYty0pfew">
-    <mxGraphModel dx="2897" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2207" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -741,8 +741,8 @@
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-43" value="meterial" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-111.34" y="3655.9" width="48.21" height="48.21" as="geometry" />
         </mxCell>
-        <mxCell id="sSDi5wLEAWpX8-8FXI7O-49" value="1.1 注册物料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-225.34000000000003" y="3665" width="90" height="30" as="geometry" />
+        <mxCell id="sSDi5wLEAWpX8-8FXI7O-49" value="1.1 注册前端物料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-240.34000000000003" y="3665" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="sSDi5wLEAWpX8-8FXI7O-49" target="sSDi5wLEAWpX8-8FXI7O-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -904,8 +904,8 @@
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-138" value="单一动作DSL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="739.41" y="3476.8399999999997" width="103.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sSDi5wLEAWpX8-8FXI7O-139" value="2.1. 注册物料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1168.9999999999998" y="3664.5599999999995" width="90" height="30" as="geometry" />
+        <mxCell id="sSDi5wLEAWpX8-8FXI7O-139" value="2.1. 注册后端物料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1153.9999999999998" y="3664.5599999999995" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.06;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="sSDi5wLEAWpX8-8FXI7O-139" target="sSDi5wLEAWpX8-8FXI7O-129">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -914,10 +914,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-143" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1259.6299999999999" y="3647.21" width="25.74" height="40" as="geometry" />
+          <mxGeometry x="1268.6299999999999" y="3647.21" width="25.74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-144" value="后端开发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1242.4999999999998" y="3682.1100000000006" width="60" height="30" as="geometry" />
+          <mxGeometry x="1251.4999999999998" y="3682.1100000000006" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-159" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="3181.6" width="215" height="397.14" as="geometry" />
@@ -1125,6 +1125,36 @@
         <mxCell id="sSDi5wLEAWpX8-8FXI7O-227" value="后端模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSDi5wLEAWpX8-8FXI7O-226">
           <mxGeometry x="-0.2387" y="2" relative="1" as="geometry">
             <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSDi5wLEAWpX8-8FXI7O-228" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="3650" as="sourcePoint" />
+            <mxPoint x="410" y="3570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="3620" />
+              <mxPoint x="460" y="3580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSDi5wLEAWpX8-8FXI7O-229" value="JSON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSDi5wLEAWpX8-8FXI7O-228">
+          <mxGeometry x="-0.0126" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSDi5wLEAWpX8-8FXI7O-230" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="3650" as="sourcePoint" />
+            <mxPoint x="680" y="3570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="3620" />
+              <mxPoint x="620" y="3580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSDi5wLEAWpX8-8FXI7O-231" value="DSL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSDi5wLEAWpX8-8FXI7O-230">
+          <mxGeometry x="-0.344" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
