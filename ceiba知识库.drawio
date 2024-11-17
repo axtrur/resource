@@ -637,20 +637,6 @@
             <mxPoint x="13" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P5uWrjK0wPMVbL8NAG0t-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="P5uWrjK0wPMVbL8NAG0t-52" target="P5uWrjK0wPMVbL8NAG0t-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P5uWrjK0wPMVbL8NAG0t-51" value="拉取弹窗链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="P5uWrjK0wPMVbL8NAG0t-50" vertex="1" connectable="0">
-          <mxGeometry x="0.0884" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P5uWrjK0wPMVbL8NAG0t-52" value="弹窗配置服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="1543" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P5uWrjK0wPMVbL8NAG0t-53" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="1430" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="P5uWrjK0wPMVbL8NAG0t-56" value="复杂UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="1740" y="1897" width="70" height="30" as="geometry" />
         </mxCell>
