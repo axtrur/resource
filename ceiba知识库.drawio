@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mJR0O4Ief5pt9zKOqre2-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="5980" width="470" height="320" as="geometry" />
+          <mxGeometry x="430" y="5980" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mJR0O4Ief5pt9zKOqre2-73" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="5480" width="470" height="390" as="geometry" />
@@ -1587,7 +1587,10 @@
           <mxGeometry x="609.41" y="6002" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mJR0O4Ief5pt9zKOqre2-75" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;public-reward-tips&lt;/h1&gt;&lt;p&gt;1. 弹窗素材（支持三切图、单图）&lt;/p&gt;&lt;p&gt;2. 弹窗结构（纯文案，带icon，多icon，列表）&lt;/p&gt;&lt;p&gt;3. 物品检查（实物，cdk&amp;nbsp; ... ）&lt;/p&gt;&lt;p&gt;4. 欧皇支持（public-reward-box才支持）&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="543.25" y="6100" width="271.75" height="150" as="geometry" />
+          <mxGeometry x="922.13" y="5980" width="271.75" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mJR0O4Ief5pt9zKOqre2-76" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;component-mixin&lt;/h1&gt;&lt;p&gt;1. setClickHandler(option, handler )&lt;/p&gt;&lt;p&gt;2. triggerClickHandler(option, handler)&lt;/p&gt;&lt;p&gt;3. checkClick(option)&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="922.13" y="5570" width="271.75" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
