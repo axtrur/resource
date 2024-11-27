@@ -1586,8 +1586,8 @@
         <mxCell id="mJR0O4Ief5pt9zKOqre2-71" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;弹窗提示行为&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="609.41" y="6002" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mJR0O4Ief5pt9zKOqre2-75" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;public-reward-tips&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="548.25" y="6130" width="233.5" height="120" as="geometry" />
+        <mxCell id="mJR0O4Ief5pt9zKOqre2-75" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;public-reward-tips&lt;/h1&gt;&lt;p&gt;1. 弹窗素材（支持三切图、单图）&lt;/p&gt;&lt;p&gt;2. 弹窗结构（纯文案，带icon，多icon，列表）&lt;/p&gt;&lt;p&gt;3. 物品检查（实物，cdk&amp;nbsp; ... ）&lt;/p&gt;&lt;p&gt;4. 欧皇支持（public-reward-box才支持）&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="543.25" y="6100" width="271.75" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
