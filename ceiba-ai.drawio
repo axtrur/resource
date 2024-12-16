@@ -25,8 +25,8 @@
         <mxCell id="_1E428SNobDCA7JHLl7G-11" value="ceiba-action-swarm【动作生成】" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="546" y="540" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_1E428SNobDCA7JHLl7G-12" value="ceiba-play-swarm【玩法生成】" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="546" y="570" width="190" height="30" as="geometry" />
+        <mxCell id="_1E428SNobDCA7JHLl7G-12" value="ceiba-play-swarm【玩法生成 &amp;amp; 推荐】" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546" y="570" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1E428SNobDCA7JHLl7G-13" value="ceiba-data-swarm【看板生成】" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="546" y="600" width="190" height="30" as="geometry" />
