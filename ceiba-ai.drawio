@@ -13,14 +13,14 @@
             <mxPoint x="944.5" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_1E428SNobDCA7JHLl7G-7" value="Ai swarms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="410" width="80" height="30" as="geometry" />
+        <mxCell id="_1E428SNobDCA7JHLl7G-7" value="Ai swarms（功能集）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="571" y="410" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1E428SNobDCA7JHLl7G-9" value="ceiba-component-swarm【组件生成】" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="546" y="510" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_1E428SNobDCA7JHLl7G-10" value="ceiba-question-swarm【QA集】" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="546" y="480" width="190" height="30" as="geometry" />
+        <mxCell id="_1E428SNobDCA7JHLl7G-10" value="ceiba-question-swarm【QA】" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546" y="480" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1E428SNobDCA7JHLl7G-11" value="ceiba-action-swarm【动作生成】" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="546" y="540" width="200" height="30" as="geometry" />
@@ -85,11 +85,11 @@
         <mxCell id="_1E428SNobDCA7JHLl7G-31" value="..." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1180" y="590" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_1E428SNobDCA7JHLl7G-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ai adapter&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="905" y="410" width="90" height="30" as="geometry" />
+        <mxCell id="_1E428SNobDCA7JHLl7G-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ai adapter（引擎适配层）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="410" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_1E428SNobDCA7JHLl7G-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ai engines&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="410" width="90" height="30" as="geometry" />
+        <mxCell id="_1E428SNobDCA7JHLl7G-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ai engines（引擎模型）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="410" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1E428SNobDCA7JHLl7G-35" value="engin-知己" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1180" y="504" width="80" height="30" as="geometry" />
@@ -103,8 +103,8 @@
         <mxCell id="_1E428SNobDCA7JHLl7G-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="1">
           <mxGeometry x="45" y="652.5" width="20" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="_1E428SNobDCA7JHLl7G-40" value="render-template" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="410" width="120" height="30" as="geometry" />
+        <mxCell id="_1E428SNobDCA7JHLl7G-40" value="render-template（渲染模板控件）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="410" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1E428SNobDCA7JHLl7G-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="460" width="180" height="210" as="geometry" />
