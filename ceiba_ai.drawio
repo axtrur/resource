@@ -72,8 +72,8 @@
         <mxCell id="7bwTMH5lr8hEjl6o-w8Y-29" value="artifacts集成（业务）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="134" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7bwTMH5lr8hEjl6o-w8Y-33" value="1. 组件预览&lt;div&gt;2. 物料卡片&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;3. 活动卡片&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="460" width="110" height="70" as="geometry" />
+        <mxCell id="7bwTMH5lr8hEjl6o-w8Y-33" value="1. 组件预览&lt;div&gt;2. 物料卡片&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;3. 活动卡片&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;4. 日志排障卡片&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="466" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7bwTMH5lr8hEjl6o-w8Y-34" value="1. markdown&lt;div&gt;2. 代码&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. 图表&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="460" width="110" height="70" as="geometry" />
