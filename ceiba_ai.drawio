@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7bwTMH5lr8hEjl6o-w8Y-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="170" width="1050" height="490" as="geometry" />
+        </mxCell>
         <mxCell id="7bwTMH5lr8hEjl6o-w8Y-1" value="企业微信QA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="112" y="430" width="122" height="30" as="geometry" />
         </mxCell>
@@ -95,7 +98,7 @@
           <mxGeometry x="710" y="380" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7bwTMH5lr8hEjl6o-w8Y-39" value="依赖事项" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7bwTMH5lr8hEjl6o-w8Y-40" value="平台AI辅助" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="430" width="80" height="30" as="geometry" />
